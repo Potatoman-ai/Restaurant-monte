@@ -5,12 +5,12 @@
    <h2>Breakfast</h2>
    <ul style="property: value;">
     <li>Pancakes</li>
-    <li>Buy ice cream</li>
-    <li>Buy rootbeer</li>
-    <li>Go Home</li>
-    <li>pour rootbeer in cup</li>
-    <li>Put Ice cream in cup</li>
-    <li>Enjoy</li>
+    <li>waffle</li>
+    <li>donuts</li>
+    <li>Muffins</li>
+    <li>omlets</li>
+    <li>Eggs</li>
+    <li>coffee</li>
    </ul>
 </div>
 </html>
