@@ -1,7 +1,7 @@
 # Restaurant-monte
 <!DOCTYPE html>
 <html lang="en-US">
-<div style="background-color:#5A5A5A; color:#FFFFFF;">
+<div style="width:400px; height:550px; background-color:#5A5A5A; color:#FFFFFF;">
    <h2>Breakfast</h2>
    <ul style="property: value;">
     <li>Pancakes</li>
