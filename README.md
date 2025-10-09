@@ -12,9 +12,9 @@
     <li>coffee 100$</li>
     <li>Oatmeal 1$</li>
     <li>Toast 100$</li>
-   <li>French toast 26263$</li>
-   <li>Bacon 46$</li>
-   <li>cereal 5$</li>
+    <li>French toast 26263$</li>
+    <li>Bacon 46$</li>
+    <li>cereal 5$</li>
    </ul>
 </div>
 </html>
