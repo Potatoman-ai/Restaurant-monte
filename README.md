@@ -1,5 +1,5 @@
 # Restaurant-monte
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html lang="en-US">
 <div style="width:400px; height:550px; padding:20px; color:blue; background-image:url(https://www.publicdomainpictures.net/pictures/300000/velka/breakfast-plate.jpg); background-repeat:repeat-y; margin-bottom:20px;">
    <h2>Breakfast</h2>
