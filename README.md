@@ -1,10 +1,8 @@
 # Restaurant-monte
 <!DOCTYPE html>
 <html lang="en-US">
-<div style="width:400px; height:550px; padding:20px; background-color:#555555; margin-bottom:20px;">
-   <img src="https://cdn12.picryl.com/photo/2016/12/31/pancake-food-cooked-food-drink-24c458-1024.jpg" 
-      alt="pancakes"
-      Width="200px" Height="200px"/>
+<div style="width:400px; height:550px; padding:20px; background-color:#555555;  background-image:url(https://pistachocoffeebrunch.com/wp-content/uploads/2025/02/recetas-huevos-saludables-desayuno.jpg); margin-bottom:20px;">
+   
    <h2>Breakfast</h2>
    <ul style="property: value;">
     <li>Pancakes</li>
