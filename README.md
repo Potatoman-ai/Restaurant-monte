@@ -14,7 +14,7 @@
     <li>Toast 100$</li>
     <li>French toast 26263$</li>
     <li>Bacon 46$</li>
-    <li>cereal 5$</li>
+    <li>cereal 5$</li> 
    </ul>
 </div>
 </html>
