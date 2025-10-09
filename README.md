@@ -1,7 +1,7 @@
 # Restaurant-monte
 <!DOCTYPE html>
 <html lang="en-US">
-<div style="width:400px; height:550px; padding:20px; color:blue; background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtayGjdnsXARludkqfRgxVUcInMkMCpRNLsw&s); background-repeat:repeat-y; margin-bottom:20px; border-style:solid; border-color:orange;">
+<div style="width:400px; height:550px; padding:20px; color:blue; background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtayGjdnsXARludkqfRgxVUcInMkMCpRNLsw&s); margin-bottom:20px; border-style:solid; border-color:orange;">
    <h2>Breakfast</h2>
    <ul style="property: value;"> 
     <li>Pancakes 15$</li>
@@ -19,7 +19,7 @@
     <li>Fruit 1029$</li>
    </ul>
 </div>
-   <div  style="width:400px; height:550px; padding:20px; color:white; background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7BICx0oE8QgtSCV1tTf_w2qKKMdlCR3SGmg&s); background-repeat:repeat-y; margin-bottom:20px; border-style:solid; border-color:purple;">
+   <div  style="width:400px; height:550px; padding:20px; color:white; background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7BICx0oE8QgtSCV1tTf_w2qKKMdlCR3SGmg&s); margin-bottom:20px; border-style:solid; border-color:purple;">
       <h2>Lunch</h2>
       <ul style="property: value;">
          <li>Burger 3$</li> 
@@ -32,7 +32,7 @@
          <li>soup \$</li>
       </ul>
    </div>
-   <div style="width:400px; height:550px; padding:20px; color:white; background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvzPvnnUaJv9I-Biw6oaXroXwaEfdbFReUVQ&s); background-repeat:repeat-y; margin-bottom:20px; border-style:solid; border-color:black;">
+   <div style="width:400px; height:550px; padding:20px; color:white; background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvzPvnnUaJv9I-Biw6oaXroXwaEfdbFReUVQ&s); margin-bottom:20px; border-style:solid; border-color:black;">
         <h2>dinner</h2>
       <ul style="property: value;">
          <li>Burger 3$</li> 
